@@ -1,0 +1,4 @@
+guest_book:
+    resource: "@GuestBookBundle/Resources/config/routing.yml"
+    prefix:   /
+
